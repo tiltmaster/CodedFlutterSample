@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822898549857",
+    "project_id": "al-bastah",
+    "storage_bucket": "al-bastah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822898549857:android:abaaa85f31a3b970063620",
+        "android_client_info": {
+          "package_name": "com.heroproject.albastah.al_bastah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822898549857-kc52e0hhqv9s1dd5g89qjk2lfsrs6qk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-blPZ4SyRiTlfGO9F1Mn09Brcqxs0YbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822898549857-kc52e0hhqv9s1dd5g89qjk2lfsrs6qk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
